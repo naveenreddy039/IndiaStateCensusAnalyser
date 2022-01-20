@@ -1,0 +1,17 @@
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateGenerusAnalyzer.csproj.AssemblyReference.cache
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateGenerusAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateGenerusAnalyzer.AssemblyInfoInputs.cache
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateGenerusAnalyzer.AssemblyInfo.cs
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateGenerusAnalyzer.csproj.CoreCompileInputs.cache
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\bin\Debug\netcoreapp3.1\IndianStateGenerusAnalyzer.exe
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\bin\Debug\netcoreapp3.1\IndianStateGenerusAnalyzer.deps.json
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\bin\Debug\netcoreapp3.1\IndianStateGenerusAnalyzer.runtimeconfig.json
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\bin\Debug\netcoreapp3.1\IndianStateGenerusAnalyzer.runtimeconfig.dev.json
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\bin\Debug\netcoreapp3.1\IndianStateGenerusAnalyzer.dll
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\bin\Debug\netcoreapp3.1\IndianStateGenerusAnalyzer.pdb
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\bin\Debug\netcoreapp3.1\CsvHelper.dll
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\bin\Debug\netcoreapp3.1\NLog.dll
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateGenerusAnalyzer.dll
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateGenerusAnalyzer.pdb
+E:\source\repos\IndianStateGenerusAnalyzer\IndianStateGenerusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateGenerusAnalyzer.genruntimeconfig.cache
